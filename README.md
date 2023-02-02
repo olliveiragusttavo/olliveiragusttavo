@@ -59,7 +59,7 @@ From academic research to the job market. First academic project in 2018, develo
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-spec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pakaqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-spec&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
