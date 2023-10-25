@@ -8,7 +8,6 @@ Passionate about development and research. Graduated as a computer technician fr
 <br>
 From academic research to the job market. First academic project in 2018, developing a didactic system and continuing as an intern until the end. Soon after, in 2019, I started my career in the job market, working as a developer at VC Cloud Tecnologia, where I remain until today. Throughout the trajectory several projects were developed for academic or personal purposes.
 
-- Focused on studying NodeJS :book:
 - Ending graduation :man_student:
 - Interested in game development and academic research :telescope:
 
@@ -59,7 +58,7 @@ From academic research to the job market. First academic project in 2018, develo
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats-git-master-panacaqui.vercel.app/api/top-langs/?username=panacaqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=panacaqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panacaqui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
