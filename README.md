@@ -65,4 +65,4 @@ From academic research to the job market. First academic project in 2018, develo
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/static/v1?label=Linkedin&message=Gustavo&color=7159c1&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-oliveira-215b42178/)
-![dev.to](https://img.shields.io/static/v1?label=dev.to&message=Gustavo&color=7159c1&style=for-the-badge&logo=dev.to)
+[![dev.to](https://img.shields.io/static/v1?label=dev.to&message=Gustavo&color=7159c1&style=for-the-badge&logo=dev.to)](https://dev.to/panacaqui)
