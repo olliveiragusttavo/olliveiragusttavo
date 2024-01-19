@@ -58,7 +58,7 @@ From academic research to the job market. First academic project in 2018, develo
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats-ztrs-git-master-itazuraharu.vercel.app/api/top-langs/?username=itazuraharu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=itazuraharu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itazuraharu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
