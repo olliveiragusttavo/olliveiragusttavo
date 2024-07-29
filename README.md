@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gustavo :wave:</h1>
 
-<p align="center">Student and software developer :computer:</p>
+<p align="center">Software developer :computer:</p>
 
 ## About me
 
