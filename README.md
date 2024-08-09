@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm Gustavo :wave:</h1>
-
-<p align="center">Software developer :computer:</p>
-
 ## About me
 
 Passionate about development and research. Graduated as a computer technician from the **Federal Institute of Education, Science and Technology of Goiás (IFG)** in 2018. From academic research to the job market. First academic project in 2018, developing a didactic system and continuing as an intern until the end. Soon after, in 2019, I started my career in the job market, working as a developer at VC Cloud Tecnologia, where I remain until today. Throughout the trajectory several projects were developed for academic or personal purposes.
