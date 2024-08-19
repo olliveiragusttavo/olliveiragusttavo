@@ -29,10 +29,10 @@ Passionate about development and research. Graduated as a computer technician fr
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=panacaqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=GusttavoOlliveira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panacaqui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusttavoOlliveira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Connect with me
 
-[![dev.to](https://img.shields.io/static/v1?label=dev.to&message=Gustavo&color=7159c1&style=for-the-badge&logo=dev.to)](https://dev.to/panacaqui)
+[![dev.to](https://img.shields.io/static/v1?label=dev.to&message=Gustavo&color=7159c1&style=for-the-badge&logo=dev.to)](https://dev.to/GusttavoOlliveira)
