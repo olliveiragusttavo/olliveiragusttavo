@@ -15,7 +15,7 @@ Passionate about development and research. Graduated as a computer technician fr
 
 <br>
 
-[![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=olliveiragusttavo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-ztrs-git-master-panacaqui.vercel.app/api/top-langs/?username=olliveiragusttavo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olliveiragusttavo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
